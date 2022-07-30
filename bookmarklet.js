@@ -1,0 +1,1 @@
+  javascript:(function(){var _0x5f1a3f=window['location']['href'],_0x173d9b='view-source:'+_0x5f1a3f;navigator['clipboard']['writeText'](_0x173d9b),alert('View-Source\x20link\x20copied\x20to\x20clipboard');}());
